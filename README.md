@@ -14,5 +14,5 @@ An important part of business is planning for the future and ensuring that the b
 8. Counting categories by continent
 9. Filtering counts by continent and category
 
-# Topics
+## Topics
 Data Manipulation
